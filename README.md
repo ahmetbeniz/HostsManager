@@ -90,6 +90,38 @@ Built with native C# / WPF following the **Windows 11 Fluent Design** language, 
 
 ---
 
+## 🌐 Dynamic Multi-Language Architecture
+
+HostsManager features a hot-pluggable, zero-recompile internationalization (i18n) engine. All UI strings and labels are decoupled from the C# source code and stored as clean JSON files inside the [`languages/`](languages/) directory.
+
+### Available Languages (12 Supported)
+
+The application automatically discovers all JSON language packs and sorts them in alphabetical order:
+
+| Flag | Language | Native Name | Code | File |
+| :---: | :--- | :--- | :---: | :--- |
+| 🇸🇦 | **Arabic** | العربية | `ar` | [`languages/ar.json`](languages/ar.json) |
+| 🇩🇪 | **German** | Deutsch | `de` | [`languages/de.json`](languages/de.json) |
+| 🇬🇧 | **English** | English | `en` | [`languages/en.json`](languages/en.json) |
+| 🇪🇸 | **Spanish** | Español | `es` | [`languages/es.json`](languages/es.json) |
+| 🇫🇷 | **French** | Français | `fr` | [`languages/fr.json`](languages/fr.json) |
+| 🇮🇹 | **Italian** | Italiano | `it` | [`languages/it.json`](languages/it.json) |
+| 🇯🇵 | **Japanese** | 日本語 | `ja` | [`languages/ja.json`](languages/ja.json) |
+| 🇰🇷 | **Korean** | 한국어 | `ko` | [`languages/ko.json`](languages/ko.json) |
+| 🇵🇹 | **Portuguese** | Português | `pt` | [`languages/pt.json`](languages/pt.json) |
+| 🇷🇺 | **Russian** | Русский | `ru` | [`languages/ru.json`](languages/ru.json) |
+| 🇹🇷 | **Turkish** | Türkçe | `tr` | [`languages/tr.json`](languages/tr.json) |
+| 🇨🇳 | **Chinese (Simplified)** | 简体中文 | `zh` | [`languages/zh.json`](languages/zh.json) |
+
+### How to Add a New Language
+
+Adding a new language takes seconds without recompiling:
+1. Duplicate any existing file in the `languages/` folder (e.g. `en.json`) and name it with your language code (e.g. `az.json`, `nl.json`).
+2. Update `"LanguageDisplayName"` (e.g. `"🇦🇿  Azərbaycan (AZ)"`) and translate the string values.
+3. Start or switch the app—the new language will automatically appear in alphabetical order in the Settings dropdown!
+
+---
+
 ## 📁 Repository Structure
 
 ```plaintext

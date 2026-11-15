@@ -90,6 +90,38 @@
 
 ---
 
+## 🌐 Dinamik Çoklu Dil Desteği
+
+HostsManager, yeniden derleme gerektirmeyen dinamik bir çoklu dil mimarisine sahiptir. Tüm arayüz metinleri C# kodundan ayrıştırılmış olup [`languages/`](languages/) klasörü altındaki hafif JSON dosyalarında tutulur.
+
+### Mevcut Diller (12 Dil Destekli)
+
+Uygulama açılırken `languages/` dizinindeki tüm dil dosyalarını otomatik olarak tarar ve alfabetik (harf) sırasına göre listeler:
+
+| Bayrak | Dil | Yerel Adı | Kod | Dosya |
+| :---: | :--- | :--- | :---: | :--- |
+| 🇸🇦 | **Arapça** | العربية | `ar` | [`languages/ar.json`](languages/ar.json) |
+| 🇩🇪 | **Almanca** | Deutsch | `de` | [`languages/de.json`](languages/de.json) |
+| 🇬🇧 | **İngilizce** | English | `en` | [`languages/en.json`](languages/en.json) |
+| 🇪🇸 | **İspanyolca** | Español | `es` | [`languages/es.json`](languages/es.json) |
+| 🇫🇷 | **Fransızca** | Français | `fr` | [`languages/fr.json`](languages/fr.json) |
+| 🇮🇹 | **İtalyanca** | Italiano | `it` | [`languages/it.json`](languages/it.json) |
+| 🇯🇵 | **Japonca** | 日本語 | `ja` | [`languages/ja.json`](languages/ja.json) |
+| 🇰🇷 | **Korece** | 한국어 | `ko` | [`languages/ko.json`](languages/ko.json) |
+| 🇵🇹 | **Portekizce** | Português | `pt` | [`languages/pt.json`](languages/pt.json) |
+| 🇷🇺 | **Rusça** | Русский | `ru` | [`languages/ru.json`](languages/ru.json) |
+| 🇹🇷 | **Türkçe** | Türkçe | `tr` | [`languages/tr.json`](languages/tr.json) |
+| 🇨🇳 | **Çince (Basitleştirilmiş)** | 简体中文 | `zh` | [`languages/zh.json`](languages/zh.json) |
+
+### Yeni Dil Nasıl Eklenir?
+
+Kod değiştirmeden veya yeniden derleme yapmadan saniyeler içinde yeni bir dil ekleyebilirsiniz:
+1. `languages/` klasöründeki herhangi bir dosyayı (örneğin `tr.json`) kopyalayın ve ISO koduna göre adlandırın (örneğin `az.json` veya `nl.json`).
+2. Dosya içerisindeki `"LanguageDisplayName"` alanını (örneğin `"🇦🇿  Azərbaycan (AZ)"`) ve metinleri tercüme edin.
+3. Uygulamayı açtığınızda yeni dil otomatik olarak algılanacak ve Ayarlar sekmesindeki listede alfabetik sırasına göre görüntülenecektir!
+
+---
+
 ## 📁 Proje Dizin Yapısı
 
 ```plaintext
