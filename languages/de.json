@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇩🇪  Deutsch (DE)",
-  "AppTitle": "Hosts-Manager v0.2.0",
+  "AppTitle": "Hosts-Manager v0.2.1",
   "AppSubtitle": "Lokales Domain- und Hosts-Datei-Verwaltungstool",
   "AdminActive": "🛡️ Administrator: Aktiv",
   "AdminRequired": "⚠️ Keine Berechtigung (Klicken)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Systemkonfiguration, Erscheinungsbild und Spracheinstellungen",
   "VersionCardTitle": "Über & Version",
   "VersionLabel": "Anwendungsversion:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "GitHub-Repository:",
   "PlatformLabel": "Plattform & Architektur:",
   "PlatformValue": "Native Windows-App (C# / WPF / XAML / Fluent)",

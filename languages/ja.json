@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇯🇵  日本語 (JA)",
-  "AppTitle": "Hosts マネージャー v0.2.0",
+  "AppTitle": "Hosts マネージャー v0.2.1",
   "AppSubtitle": "ローカルドメインおよび Hosts ファイル管理ツール",
   "AdminActive": "🛡️ 管理者モード：有効",
   "AdminRequired": "⚠️ 権限が必要です (クリックして昇格)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "システム構成、テーマおよび言語設定",
   "VersionCardTitle": "情報 & バージョン",
   "VersionLabel": "アプリバージョン：",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "GitHub リポジトリ:",
   "PlatformLabel": "アーキテクチャ & プラットフォーム：",
   "PlatformValue": "ネイティブ Windows アプリ (C# / WPF / XAML / Fluent)",

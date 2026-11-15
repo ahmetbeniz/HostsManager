@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇫🇷  Français (FR)",
-  "AppTitle": "Gestionnaire de Hosts v0.2.0",
+  "AppTitle": "Gestionnaire de Hosts v0.2.1",
   "AppSubtitle": "Outil de gestion des domaines locaux et du fichier hosts",
   "AdminActive": "🛡️ Mode Administrateur : Actif",
   "AdminRequired": "⚠️ Droits Requis (Cliquer)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Configuration système, thème et préférences linguistiques",
   "VersionCardTitle": "À propos & Version",
   "VersionLabel": "Version de l'application :",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "Dépôt GitHub :",
   "PlatformLabel": "Architecture & Plateforme :",
   "PlatformValue": "Application Windows Native (C# / WPF / XAML / Fluent)",

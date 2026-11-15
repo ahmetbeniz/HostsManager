@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇹🇷  Türkçe (TR)",
-  "AppTitle": "Hosts Yöneticisi v0.2.0",
+  "AppTitle": "Hosts Yöneticisi v0.2.1",
   "AppSubtitle": "Yerel Domain ve Hosts Dosyası Düzenleme Aracı",
   "AdminActive": "🛡️ Yönetici Modu: Aktif",
   "AdminRequired": "⚠️ Yetki Yok (Tıkla & Yetki Ver)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Sistem yapılandırması, görünüm ve dil tercihleri",
   "VersionCardTitle": "Hakkında & Versiyon",
   "VersionLabel": "Uygulama Versiyonu:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "GitHub Deposu:",
   "PlatformLabel": "Altyapı & Mimari:",
   "PlatformValue": "Yerel Windows Uygulaması (C# / WPF / XAML / Fluent)",

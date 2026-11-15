@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇬🇧  English (EN)",
-  "AppTitle": "Hosts Manager v0.2.0",
+  "AppTitle": "Hosts Manager v0.2.1",
   "AppSubtitle": "Native Domain & Hosts File Editor",
   "AdminActive": "🛡️ Administrator Mode: Active",
   "AdminRequired": "⚠️ No Admin Rights (Click to Elevate)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "System configuration, appearance and language preferences",
   "VersionCardTitle": "About & Version",
   "VersionLabel": "Application Version:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "GitHub Repository:",
   "PlatformLabel": "Platform & Architecture:",
   "PlatformValue": "Native Windows Application (C# / WPF / XAML / Fluent)",

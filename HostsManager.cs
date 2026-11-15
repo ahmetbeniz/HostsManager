@@ -647,7 +647,7 @@ namespace HostsManagerV3
                     _notifyIcon.Icon = SystemIcons.Application;
                 }
 
-                _notifyIcon.Text = "Hosts Yöneticisi v0.2.0";
+                _notifyIcon.Text = "Hosts Yöneticisi v0.2.1";
                 _notifyIcon.Visible = true;
 
                 var menu = new Forms.ContextMenu();

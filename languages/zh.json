@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇨🇳  简体中文 (ZH)",
-  "AppTitle": "Hosts 管理器 v0.2.0",
+  "AppTitle": "Hosts 管理器 v0.2.1",
   "AppSubtitle": "本地域名与 Hosts 文件管理工具",
   "AdminActive": "🛡️ 管理员模式：已启用",
   "AdminRequired": "⚠️ 需要管理员权限 (点击授权)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "系统配置、外观主题与语言偏好",
   "VersionCardTitle": "关于与版本",
   "VersionLabel": "应用程序版本：",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "GitHub 仓库:",
   "PlatformLabel": "架构与平台：",
   "PlatformValue": "原生 Windows 应用程序 (C# / WPF / XAML / Fluent)",

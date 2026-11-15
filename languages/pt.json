@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇵🇹  Português (PT)",
-  "AppTitle": "Gestor de Hosts v0.2.0",
+  "AppTitle": "Gestor de Hosts v0.2.1",
   "AppSubtitle": "Ferramenta de gestão de domínios locais e ficheiro hosts",
   "AdminActive": "🛡️ Modo Administrador: Ativo",
   "AdminRequired": "⚠️ Permissão Necessária (Clique)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Configuração do sistema, aparência e preferências de idioma",
   "VersionCardTitle": "Sobre e Versão",
   "VersionLabel": "Versão da aplicação:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "Repositório GitHub:",
   "PlatformLabel": "Plataforma e Arquitetura:",
   "PlatformValue": "Aplicação nativa Windows (C# / WPF / XAML / Fluent)",

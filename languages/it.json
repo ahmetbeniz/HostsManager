@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇮🇹  Italiano (IT)",
-  "AppTitle": "Gestore Hosts v0.2.0",
+  "AppTitle": "Gestore Hosts v0.2.1",
   "AppSubtitle": "Strumento di gestione dei domini locali e del file hosts",
   "AdminActive": "🛡️ Modalità Amministratore: Attiva",
   "AdminRequired": "⚠️ Autorizzazione Richiesta (Clicca)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Configurazione di sistema, aspetto e preferenze di lingua",
   "VersionCardTitle": "Informazioni e Versione",
   "VersionLabel": "Versione applicazione:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "Repository GitHub:",
   "PlatformLabel": "Piattaforma e Architettura:",
   "PlatformValue": "Applicazione nativa Windows (C# / WPF / XAML / Fluent)",

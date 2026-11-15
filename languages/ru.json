@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇷🇺  Русский (RU)",
-  "AppTitle": "Диспетчер Hosts v0.2.0",
+  "AppTitle": "Диспетчер Hosts v0.2.1",
   "AppSubtitle": "Инструмент управления локальными доменами и файлом hosts",
   "AdminActive": "🛡️ Режим администратора: Активен",
   "AdminRequired": "⚠️ Требуются права (Нажмите)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "Конфигурация системы, оформление и языковые параметры",
   "VersionCardTitle": "О программе и Версия",
   "VersionLabel": "Версия приложения:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "Репозиторий GitHub:",
   "PlatformLabel": "Платформа и Архитектура:",
   "PlatformValue": "Нативное приложение Windows (C# / WPF / XAML / Fluent)",

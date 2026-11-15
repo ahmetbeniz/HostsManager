@@ -1,6 +1,6 @@
 ﻿{
   "LanguageDisplayName": "🇸🇦  العربية (AR)",
-  "AppTitle": "مدير ملف Hosts v0.2.0",
+  "AppTitle": "مدير ملف Hosts v0.2.1",
   "AppSubtitle": "أداة إدارة النطاقات المحلية وتعديل ملف Hosts",
   "AdminActive": "🛡️ وضع المسؤول: نشط",
   "AdminRequired": "⚠️ صلاحيات مطلوبة (انقر للترقية)",
@@ -63,7 +63,7 @@
   "SettingsSubtitle": "تهيئة النظام والمظهر وتفضيلات اللغة",
   "VersionCardTitle": "حول الإصدار",
   "VersionLabel": "إصدار التطبيق:",
-  "VersionValue": "v0.2.0",
+  "VersionValue": "v0.2.1",
   "GithubLabel": "مستودع GitHub:",
   "PlatformLabel": "المنصة والهيكلية:",
   "PlatformValue": "تطبيق Windows أصلي (C# / WPF / XAML / Fluent)",
