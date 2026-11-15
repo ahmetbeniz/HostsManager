@@ -1,0 +1,40 @@
+# ==========================================
+# Projeye Özel Hariç Tutulanlar
+# ==========================================
+
+# 1. Yedekler ve yedek klasörü
+backups/
+**/backups/
+*.bak
+
+# 2. Kullanıcı/yerel ayar dosyası
+settings.json
+**/settings.json
+
+# 3. Yerel derleme betiği
+compile.bat
+**/compile.bat
+
+# 4. Derlenmiş çalıştırılabilir (.exe) dosyaları
+*.exe
+*.dll
+*.pdb
+
+# ==========================================
+# Windows & Sistem / Editör Kalıntıları
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+*.tmp
+*.log
+
+# IDE & Derleyici Kalıntıları
+.vs/
+.vscode/
+bin/
+obj/
+*.suo
+*.user
