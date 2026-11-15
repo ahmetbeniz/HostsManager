@@ -1,28 +1,28 @@
-# ==========================================
-# Projeye Özel Hariç Tutulanlar
-# ==========================================
+# ========================================================
+# Project-Specific Exclusions / Projeye Özel Hariç Tutulanlar
+# ========================================================
 
-# 1. Yedekler ve yedek klasörü
+# 1. Backups & Backup Directories / Yedekler ve Yedek Klasörleri
 backups/
 **/backups/
 *.bak
 
-# 2. Kullanıcı/yerel ayar dosyası
+# 2. User & Local Configuration / Kullanıcı ve Yerel Ayar Dosyaları
 settings.json
 **/settings.json
 
-# 3. Yerel derleme betiği
+# 3. Local Build Script / Yerel Derleme Betiği
 compile.bat
 **/compile.bat
 
-# 4. Derlenmiş çalıştırılabilir (.exe) dosyaları
+# 4. Compiled Binaries & Build Output / Derlenmiş İkili (.exe) ve Çıktı Dosyaları
 *.exe
 *.dll
 *.pdb
 
-# ==========================================
-# Windows & Sistem / Editör Kalıntıları
-# ==========================================
+# ========================================================
+# Windows & System Artifacts / Windows ve Sistem Kalıntıları
+# ========================================================
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -31,7 +31,9 @@ $RECYCLE.BIN/
 *.tmp
 *.log
 
-# IDE & Derleyici Kalıntıları
+# ========================================================
+# IDE & Compiler Artifacts / IDE ve Derleyici Kalıntıları
+# ========================================================
 .vs/
 .vscode/
 bin/
