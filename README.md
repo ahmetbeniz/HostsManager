@@ -5,9 +5,10 @@
 **A modern, lightweight Windows Hosts file manager built with C# and WPF Fluent Design.**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4.svg?logo=windows)](https://microsoft.com/windows)
+[![Release](https://img.shields.io/badge/Download-Portable%20Release-success.svg?logo=windows)](https://github.com/ahmetbeniz/HostsManager/releases)
 [![Framework](https://img.shields.io/badge/.NET%20Framework-4.0%2B-512BD4.svg?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-Native%20WPF%20%2F%20XAML-blue.svg)](#-architecture--zero-dependency)
-[![Languages](https://img.shields.io/badge/Languages-12%20Supported-success.svg)](#-dynamic-multi-language-architecture)
+[![Languages](https://img.shields.io/badge/Languages-12%20Supported-blue.svg)](#-dynamic-multi-language-architecture)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <br />
@@ -27,6 +28,18 @@
 **HostsManager** is an intuitive, fast, and native Windows desktop tool designed for developers, system administrators, and power users to effortlessly view, edit, toggle, and organize the Windows `hosts` file (`C:\Windows\System32\drivers\etc\hosts`).
 
 Built with native C# / WPF following the **Windows 11 Fluent Design** language, it delivers a smooth desktop experience with zero external runtime dependencies.
+
+---
+
+## 🚀 Download & Portable Usage
+
+> [!TIP]
+> **100% Portable — No Installation Required!**  
+> HostsManager is distributed as a single standalone executable. No setup wizards, no MSI installers, no administrative installation overhead, and no registry clutter.
+
+1. Go to the **[Releases](https://github.com/ahmetbeniz/HostsManager/releases)** page.
+2. Download the latest `HostsManager.exe` (and the `languages/` folder if you wish to use multi-language packs).
+3. Place it in any folder or USB drive and double-click to run!
 
 ---
 

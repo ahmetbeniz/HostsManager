@@ -5,9 +5,10 @@
 **C# ve WPF Fluent Design ile geliştirilmiş modern, hafif ve yerel Windows Hosts dosyası yöneticisi.**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4.svg?logo=windows)](https://microsoft.com/windows)
+[![İndir](https://img.shields.io/badge/İndir-Taşınabilir%20(Portable)-success.svg?logo=windows)](https://github.com/ahmetbeniz/HostsManager/releases)
 [![Framework](https://img.shields.io/badge/.NET%20Framework-4.0%2B-512BD4.svg?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Mimari](https://img.shields.io/badge/Mimari-Native%20WPF%20%2F%20XAML-blue.svg)](#-mimari--sıfır-bağımlılık)
-[![Diller](https://img.shields.io/badge/Diller-12%20Dil%20Destekli-success.svg)](#-dinamik-çoklu-dil-desteği)
+[![Diller](https://img.shields.io/badge/Diller-12%20Dil%20Destekli-blue.svg)](#-dinamik-çoklu-dil-desteği)
 [![Lisans](https://img.shields.io/badge/Lisans-MIT-green.svg)](LICENSE)
 
 <br />
@@ -27,6 +28,18 @@
 **HostsManager**, yazılımcılar, sistem yöneticileri ve ileri düzey kullanıcılar için Windows `hosts` dosyasını (`C:\Windows\System32\drivers\etc\hosts`) zahmetsizce görüntülemek, düzenlemek, aktif/pasif hale getirmek ve güvenle yönetmek amacıyla tasarlanmış modern bir masaüstü aracıdır.
 
 **Windows 11 Fluent Design** tasarım dili ve saf C# / WPF teknolojisi kullanılarak geliştirilmiş olup, hiçbir harici kütüphane veya çalışma zamanı (runtime) bağımlılığı gerektirmez.
+
+---
+
+## 🚀 İndirme & Taşınabilir (Portable) Kullanım
+
+> [!TIP]
+> **%100 Taşınabilir (Portable) — Kurulum Gerektirmez!**  
+> HostsManager tek bir bağımsız `.exe` dosyası olarak dağıtılır. Kurulum sihirbazı (setup), yükleyici, kayıt defteri kirliliği veya harici bağımlılık gerektirmez.
+
+1. **[Releases (Sürümler)](https://github.com/ahmetbeniz/HostsManager/releases)** sayfasına gidin.
+2. En güncel `HostsManager.exe` dosyasını (ve çoklu dil paketleri için `languages/` klasörünü) indirin.
+3. İstediğiniz klasöre veya USB belleğe koyup çift tıklayarak doğrudan çalıştırın!
 
 ---
 
